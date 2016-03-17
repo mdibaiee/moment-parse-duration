@@ -3,6 +3,10 @@ moment-parse-duration
 
 Parse duration strings using `moment.parse`.
 
+```javascript
+npm install moment-parse-duration
+```
+
 Examples:
 
 ```javascript
