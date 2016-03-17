@@ -1,0 +1,28 @@
+{
+  "name": "moment-parse-duration",
+  "version": "1.0.0",
+  "description": "Parse strings representing durations using `moment.duration`",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mdibaiee/moment-parse-duration.git"
+  },
+  "keywords": [
+    "moment",
+    "duration",
+    "time",
+    "parse"
+  ],
+  "author": "Mahdi Dibaiee <mdibaiee@aol.com> (http://dibaiee.ir/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mdibaiee/moment-parse-duration/issues"
+  },
+  "homepage": "https://github.com/mdibaiee/moment-parse-duration#readme",
+  "dependencies": {
+    "moment": "2.12.0"
+  }
+}
